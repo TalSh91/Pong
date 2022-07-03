@@ -1,2 +1,2 @@
 # Pong
-Pong game i wirth with Pytohn. link: https://replit.com/@TalShabi/Pong?v=1
+Pong game With Python. link: https://replit.com/@TalShabi/Pong?v=1
